@@ -1,0 +1,6 @@
+site_name: E-Commerce Frontend
+
+nav:
+  - Home: index.md
+
+docs_dir: docs
