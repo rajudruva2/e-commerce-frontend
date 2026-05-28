@@ -1,0 +1,15 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+
+metadata:
+  name: e-commerce-frontend
+  description: React frontend application for e-commerce platform
+
+  annotations:
+    github.com/project-slug: rajudruva2/e-commerce-frontend
+
+spec:
+  type: website
+  lifecycle: experimental
+  owner: user:default/rajudruva2
